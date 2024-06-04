@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi , i`m jun hyeok I dream of becoming a developer who makes the world a better place 👋🏼
 
 <!--
 **rlawnsgur0305/rlawnsgur0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
